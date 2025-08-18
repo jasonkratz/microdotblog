@@ -1,0 +1,42 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jason's Shorts",
+	"icon": "https://micro.blog/jasonekratz/avatar.jpg",
+	"home_page_url": "https://micro.jasonkratz.me/",
+	"feed_url": "https://micro.jasonkratz.me/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jasonekratz.micro.blog/2025/08/17/you-know-its-nfl-preseason/",
+				
+				"content_html": "<p>You know it&rsquo;s #NFL pre-season when most of the games were on a Saturday instead of Sunday 🤣</p>\n",
+				"content_text": "You know it's #NFL pre-season when most of the games were on a Saturday instead of Sunday 🤣\n",
+				"date_published": "2025-08-17T11:54:15-05:00",
+				"url": "https://micro.jasonkratz.me/2025/08/17/you-know-its-nfl-preseason/"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2025/08/16/fujifilm-xe-looks-like-a/",
+				
+				"content_html": "<p>Fujifilm X-E5 looks like a nice camera when someone actually has them in stock. But that price. 🔥. Ouch.</p>\n",
+				"content_text": "Fujifilm X-E5 looks like a nice camera when someone actually has them in stock. But that price. 🔥. Ouch.\n",
+				"date_published": "2025-08-16T16:33:09-05:00",
+				"url": "https://micro.jasonkratz.me/2025/08/16/fujifilm-xe-looks-like-a/"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2025/08/15/the-martin-theater-at-ravinia/",
+				
+				"content_html": "<p>The Martin Theater at Ravinia Festival. Highland Park, IL.</p>\n<p><em>mood.camera Gold 400 N</em></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Martin Theater at Ravinia Festival. Highland Park, IL.\n\n_mood.camera Gold 400 N_\n\n<img src=\"uploads/2025/img-2262.jpg\">\n",
+				"date_published": "2025-08-15T23:59:52-05:00",
+				"url": "https://micro.jasonkratz.me/2025/08/15/the-martin-theater-at-ravinia/"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2025/08/15/moodcamera/",
+				"title": "mood.camera",
+				"content_html": "<p>Not sure why I hadn&rsquo;t run across mood.camera previously but glad I did now. Really beautiful filters on this one. <a href=\"https://apps.apple.com/us/app/mood-camera/id6472954208\">mood.camera</a></p>\n",
+				"content_text": "Not sure why I hadn't run across mood.camera previously but glad I did now. Really beautiful filters on this one. [mood.camera](https://apps.apple.com/us/app/mood-camera/id6472954208)\n",
+				"date_published": "2025-08-15T23:39:21-05:00",
+				"url": "https://micro.jasonkratz.me/2025/08/15/moodcamera/"
+			}
+	]
+}
