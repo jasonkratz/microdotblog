@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jasonekratz.micro.blog/2025/08/23/so-at-one-point-it/",
+				
+				"content_html": "<p>So at one point it was impossible to find a USB-C hub that was solely USB-C unless you wanted to pay a fortune for something like a OWC dock. Now they seem to be available from Belkin and Anker (maybe others). It&rsquo;s about time.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "So at one point it was impossible to find a USB-C hub that was solely USB-C unless you wanted to pay a fortune for something like a OWC dock. Now they seem to be available from Belkin and Anker (maybe others). It's about time.\n\n<img src=\"uploads/2025/img-2510.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-08-23T14:07:18-05:00",
+				"url": "https://micro.jasonkratz.me/2025/08/23/so-at-one-point-it/"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2025/08/23/excited-to-see-that-automattic/",
+				
+				"content_html": "<p>Excited to see that Automattic has released a web clipper for Day One. Currently available for Firefox/Chrome. Hoping a Safari version is in the works. <a href=\"https://dayoneapp.com/releases/chrome-firefox-browser-extensions/\">dayoneapp.com/releases/&hellip;</a></p>\n",
+				"content_text": "Excited to see that Automattic has released a web clipper for Day One. Currently available for Firefox/Chrome. Hoping a Safari version is in the works. [dayoneapp.com/releases/...](https://dayoneapp.com/releases/chrome-firefox-browser-extensions/)\n",
+				"date_published": "2025-08-23T11:36:22-05:00",
+				"url": "https://micro.jasonkratz.me/2025/08/23/excited-to-see-that-automattic/"
+			},
+			{
 				"id": "http://jasonekratz.micro.blog/2025/08/22/love-my-kids-more-than/",
 				
 				"content_html": "<p>Love my kids more than anything but very happy my son is now back at college and our small house has one fewer adult in it. Our house is a tiny WW2-era Cape Cod and it not designed for 4 adults 😆. Next stop January when my daughter moves out&hellip;</p>\n",
@@ -42,17 +58,9 @@
 				"id": "http://jasonekratz.micro.blog/2025/08/15/the-martin-theater-at-ravinia/",
 				
 				"content_html": "<p>The Martin Theater at Ravinia Festival. Highland Park, IL.</p>\n<p><em>mood.camera Gold 400 N</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Martin Theater at Ravinia Festival. Highland Park, IL.\n\n_mood.camera Gold 400 N_\n\n<img src=\"uploads/2025/img-2262.jpg\">\n",
+				"content_text": "The Martin Theater at Ravinia Festival. Highland Park, IL.\n\n_mood.camera Gold 400 N_\n\n<img src=\"https://micro.jasonkratz.me/uploads/2025/img-2262.jpg\">\n",
 				"date_published": "2025-08-15T23:59:52-05:00",
 				"url": "https://micro.jasonkratz.me/2025/08/15/the-martin-theater-at-ravinia/"
-			},
-			{
-				"id": "http://jasonekratz.micro.blog/2025/08/15/moodcamera/",
-				"title": "mood.camera",
-				"content_html": "<p>Not sure why I hadn&rsquo;t run across mood.camera previously but glad I did now. Really beautiful filters on this one. <a href=\"https://apps.apple.com/us/app/mood-camera/id6472954208\">mood.camera</a></p>\n",
-				"content_text": "Not sure why I hadn't run across mood.camera previously but glad I did now. Really beautiful filters on this one. [mood.camera](https://apps.apple.com/us/app/mood-camera/id6472954208)\n",
-				"date_published": "2025-08-15T23:39:21-05:00",
-				"url": "https://micro.jasonkratz.me/2025/08/15/moodcamera/"
 			}
 	]
 }
