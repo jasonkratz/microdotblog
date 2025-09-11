@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "The Mercurialist's Journal",
-	"icon": "https://micro.blog/jasonekratz/avatar.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2025/31/1808209.jpg",
 	"home_page_url": "https://blog.jasonkratz.me/",
 	"feed_url": "https://blog.jasonkratz.me/feed.json",
 	"items": [
 		
+			{
+				"id": "http://jasonekratz.micro.blog/2025/09/11/i-honestly-do-not-get/",
+				
+				"content_html": "<p>I honestly do not get the whitewashing of the character and behavior of Charlie Kirk by people like Ezra Klein. Klein&rsquo;s latest piece in the NYT is off on everything but the fact that we shouldn&rsquo;t be turning to violence to settle our political scores. People have gone absolutely bananas.</p>\n",
+				"content_text": "I honestly do not get the whitewashing of the character and behavior of Charlie Kirk by people like Ezra Klein. Klein's latest piece in the NYT is off on everything but the fact that we shouldn't be turning to violence to settle our political scores. People have gone absolutely bananas.\n",
+				"date_published": "2025-09-11T14:27:38-05:00",
+				"url": "https://blog.jasonkratz.me/2025/09/11/i-honestly-do-not-get/"
+			},
 			{
 				"id": "http://jasonekratz.micro.blog/2025/09/10/currently-reading-tiny-experiments-by/",
 				
@@ -89,7 +97,7 @@
 			{
 				"id": "http://jasonekratz.micro.blog/2025/08/25/the-new-coffee-subscription-offerings/",
 				
-				"content_html": "<p>The new coffee subscription offerings from Counter Culture showed up today&hellip;</p>\n<!-- raw HTML omitted -->\n<p>The Jabanto smelled like a blueberry muffin when I squeezed the bag so it definitely lived up to the notes — at least on a squeeze. Very fruity! Looking forward to trying the Gundikhan tomorrow morning. Not sure if I’ve had beans from India as of yet.</p>\n",
+				"content_html": "<p>The new coffee subscription offerings from Counter Culture showed up today&hellip;</p>\n<img src=\"https://blog.jasonkratz.me/uploads/2025/3a0a92fe35.png\" alt=\"\">\n<p>The Jabanto smelled like a blueberry muffin when I squeezed the bag so it definitely lived up to the notes — at least on a squeeze. Very fruity! Looking forward to trying the Gundikhan tomorrow morning. Not sure if I’ve had beans from India as of yet.</p>\n",
 				"content_text": "The new coffee subscription offerings from Counter Culture showed up today...\n\n<img src=\"https://blog.jasonkratz.me/uploads/2025/3a0a92fe35.png\" alt=\"\">\n\nThe Jabanto smelled like a blueberry muffin when I squeezed the bag so it definitely lived up to the notes — at least on a squeeze. Very fruity! Looking forward to trying the Gundikhan tomorrow morning. Not sure if I’ve had beans from India as of yet.\n",
 				"date_published": "2025-08-25T14:00:27-05:00",
 				"url": "https://blog.jasonkratz.me/2025/08/25/the-new-coffee-subscription-offerings/"
@@ -113,7 +121,7 @@
 			{
 				"id": "http://jasonekratz.micro.blog/2025/08/23/so-at-one-point-it/",
 				
-				"content_html": "<p>So at one point it was impossible to find a USB-C hub that was solely USB-C unless you wanted to pay a fortune for something like a OWC dock. Now they seem to be available from Belkin and Anker (maybe others). It&rsquo;s about time.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>So at one point it was impossible to find a USB-C hub that was solely USB-C unless you wanted to pay a fortune for something like a OWC dock. Now they seem to be available from Belkin and Anker (maybe others). It&rsquo;s about time.</p>\n<img src=\"https://blog.jasonkratz.me/uploads/2025/img-2510.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"content_text": "So at one point it was impossible to find a USB-C hub that was solely USB-C unless you wanted to pay a fortune for something like a OWC dock. Now they seem to be available from Belkin and Anker (maybe others). It's about time.\n\n<img src=\"https://blog.jasonkratz.me/uploads/2025/img-2510.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-08-23T14:07:18-05:00",
 				"url": "https://blog.jasonkratz.me/2025/08/23/so-at-one-point-it/"
@@ -161,7 +169,7 @@
 			{
 				"id": "http://jasonekratz.micro.blog/2025/08/15/the-martin-theater-at-ravinia/",
 				
-				"content_html": "<p>The Martin Theater at Ravinia Festival. Highland Park, IL.</p>\n<p><em>mood.camera Gold 400 N</em></p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The Martin Theater at Ravinia Festival. Highland Park, IL.</p>\n<p><em>mood.camera Gold 400 N</em></p>\n<img src=\"https://blog.jasonkratz.me/uploads/2025/img-2262.jpg\">\n",
 				"content_text": "The Martin Theater at Ravinia Festival. Highland Park, IL.\n\n_mood.camera Gold 400 N_\n\n<img src=\"https://blog.jasonkratz.me/uploads/2025/img-2262.jpg\">\n",
 				"date_published": "2025-08-15T23:59:52-05:00",
 				"url": "https://blog.jasonkratz.me/2025/08/15/the-martin-theater-at-ravinia/"
