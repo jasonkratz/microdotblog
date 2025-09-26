@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jasonkratz.micro.blog/2025/09/26/this-action-cannot-be-run/",
+				"title": "\"this action cannot be run in the current environment\" error with Mac Shortcuts",
+				"content_html": "<p>Just spent a ridiculous amount of time trying to figure out a Shortcuts error with Bear on the Mac which says &ldquo;this action cannot be run in the current environment&rdquo; and of which there is little information on the Internet. To make things even more fun, on my laptop for work, an M1 Pro-based MacBook Pro, the error totally froze up the Spotlight prompt and I had to kill the Spotlight process off to recover (on my personal M3 Pro-based MBP I would receive the same error but it wouldn&rsquo;t freeze up).</p>\n<p>It turns out that Apple, for some reason, creates legacy versions of Shortcut actions and I was using one of those.</p>\n<p>From the Bear support pages:</p>\n<blockquote>\n<p>Apple sometimes automatically creates “legacy actions” for apps that are not under our control. We recommend avoiding these actions: Create Bear Note, Create Bear Note from URL, open Bear Note, and Search in Bear.</p>\n</blockquote>\n<p>I&rsquo;m not sure why they don&rsquo;t label them as legacy to avoid confusion. An error that isn&rsquo;t so generic wouldn&rsquo;t hurt either.</p>\n",
+				"content_text": "Just spent a ridiculous amount of time trying to figure out a Shortcuts error with Bear on the Mac which says \"this action cannot be run in the current environment\" and of which there is little information on the Internet. To make things even more fun, on my laptop for work, an M1 Pro-based MacBook Pro, the error totally froze up the Spotlight prompt and I had to kill the Spotlight process off to recover (on my personal M3 Pro-based MBP I would receive the same error but it wouldn't freeze up).\n\nIt turns out that Apple, for some reason, creates legacy versions of Shortcut actions and I was using one of those. \n\nFrom the Bear support pages:\n\n> Apple sometimes automatically creates “legacy actions” for apps that are not under our control. We recommend avoiding these actions: Create Bear Note, Create Bear Note from URL, open Bear Note, and Search in Bear.\n\nI'm not sure why they don't label them as legacy to avoid confusion. An error that isn't so generic wouldn't hurt either.\n\n",
+				"date_published": "2025-09-26T12:24:32-05:00",
+				"url": "https://blog.jasonkratz.me/2025/09/26/this-action-cannot-be-run/"
+			},
+			{
+				"id": "http://jasonkratz.micro.blog/2025/09/25/my-psa-for-the-week/",
+				
+				"content_html": "<p>My PSA for the week: Substack Notes is a cesspool. Don&rsquo;t waste your time.</p>\n",
+				"content_text": "My PSA for the week: Substack Notes is a cesspool. Don't waste your time.\n",
+				"date_published": "2025-09-25T22:02:54-05:00",
+				"url": "https://blog.jasonkratz.me/2025/09/25/my-psa-for-the-week/"
+			},
+			{
 				"id": "http://jasonkratz.micro.blog/2025/09/25/its-astonishing-to-me-that/",
 				
 				"content_html": "<p>It&rsquo;s astonishing to me that in 2025 Apple Photos on iOS and iPadOS still don&rsquo;t support smart lists.</p>\n",
