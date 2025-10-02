@@ -1,16 +1,40 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Notebook",
-	"icon": "https://avatars.micro.blog/avatars/2025/31/1808209.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2025/39/1808209.jpg",
 	"home_page_url": "https://jkratz.micro.blog/",
 	"feed_url": "https://jkratz.micro.blog/feed.json",
 	"items": [
 		
 			{
+				"id": "http://jkratz.micro.blog/2025/10/02/speaker-mike-johnson-downplayed-the/",
+				
+				"content_html": "<blockquote>\n<p>Speaker Mike Johnson downplayed the use of A.I.-generated videos by President Trump that mocked Senator Chuck Schumer and Representative Hakeem Jeffries, Democratic leaders in both chambers. Johnson said his colleagues were “overreacting to a joke“</p>\n</blockquote>\n<p>If I made such a “joke” at my job I’d likely face disciplinary action. If I did it a second time I’d be fired. Rightly so.</p>\n",
+				"content_text": "> Speaker Mike Johnson downplayed the use of A.I.-generated videos by President Trump that mocked Senator Chuck Schumer and Representative Hakeem Jeffries, Democratic leaders in both chambers. Johnson said his colleagues were “overreacting to a joke“\n\nIf I made such a “joke” at my job I’d likely face disciplinary action. If I did it a second time I’d be fired. Rightly so. \n",
+				"date_published": "2025-10-02T13:00:51-05:00",
+				"url": "https://jkratz.micro.blog/2025/10/02/speaker-mike-johnson-downplayed-the/"
+			},
+			{
+				"id": "http://jkratz.micro.blog/2025/10/02/the-gents-at-good-enough/",
+				
+				"content_html": "<p>The gents at Good Enough have added export to Pika blogs. Praise be!</p>\n",
+				"content_text": "The gents at Good Enough have added export to Pika blogs. Praise be!\n",
+				"date_published": "2025-10-02T11:41:10-05:00",
+				"url": "https://jkratz.micro.blog/2025/10/02/the-gents-at-good-enough/"
+			},
+			{
+				"id": "http://jkratz.micro.blog/2025/10/01/rip-jane-goodall-she-was/",
+				
+				"content_html": "<p>RIP Jane Goodall. She was just here in Chicago on 9/11 to give a talk at Lincoln Park Zoo.</p>\n",
+				"content_text": "RIP Jane Goodall. She was just here in Chicago on 9/11 to give a talk at Lincoln Park Zoo.\n",
+				"date_published": "2025-10-01T14:32:49-05:00",
+				"url": "https://jkratz.micro.blog/2025/10/01/rip-jane-goodall-she-was/"
+			},
+			{
 				"id": "http://jkratz.micro.blog/2025/10/01/in-case-anyone-is-wondering/",
 				
-				"content_html": "<p>In case anyone is wondering why the Dems in the Senate are holding out its shit like this: <a href=\"https://www.nytimes.com/2025/09/30/u\">www.nytimes.com/2025/09/30/u</a>&hellip;</p>\n<p>When these assholes are withholding already-spoken-for funding there is no negotiation.</p>\n",
-				"content_text": "In case anyone is wondering why the Dems in the Senate are holding out its shit like this: www.nytimes.com/2025/09/30/u...\n\nWhen these assholes are withholding already-spoken-for funding there is no negotiation.\n",
+				"content_html": "<p>In case anyone is wondering why the Dems in the Senate are holding out its shit like this:</p>\n<p><a href=\"https://www.nytimes.com/2025/09/30/us/politics/trump-federal-watchdog-funding.html\">www.nytimes.com/2025/09/3&hellip;</a></p>\n<p>When these assholes are withholding already-spoken-for funding there is no negotiation.</p>\n<p>Further:</p>\n<blockquote>\n<p>Armen Tooloee, an Office of Management and Budget spokesman, said in a statement. “Unfortunately, they have become corrupt, partisan, and in some cases, have lied to the public. The American people will no longer be funding this corruption.”</p>\n</blockquote>\n<p>OK then Armen so when should I expect my part of the refund on this?</p>\n",
+				"content_text": "In case anyone is wondering why the Dems in the Senate are holding out its shit like this:\n\n[www.nytimes.com/2025/09/3...](https://www.nytimes.com/2025/09/30/us/politics/trump-federal-watchdog-funding.html)\n\nWhen these assholes are withholding already-spoken-for funding there is no negotiation.\n\nFurther:\n\n> Armen Tooloee, an Office of Management and Budget spokesman, said in a statement. “Unfortunately, they have become corrupt, partisan, and in some cases, have lied to the public. The American people will no longer be funding this corruption.”\n\nOK then Armen so when should I expect my part of the refund on this?\n",
 				"date_published": "2025-10-01T11:52:29-05:00",
 				"url": "https://jkratz.micro.blog/2025/10/01/in-case-anyone-is-wondering/"
 			},
